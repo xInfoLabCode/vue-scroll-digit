@@ -1,6 +1,7 @@
 {
   "name": "vue-scroll-digit",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "github": "https://github.com/xInfoLabCode/vue-scroll-digit",
   "description": "a vue component of scrolling digits, like lottos",
   "keywords": ["scroll-digit", "scroll-animation"],
   "main": "lib/bundle.umd.js",

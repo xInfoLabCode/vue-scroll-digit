@@ -1,5 +1,5 @@
 # vue-scroll-digit
-实现类似抽奖的数字翻滚效果组件
+实现类似抽奖的数字翻滚效果组件，github源码地址：https://github.com/xInfoLabCode/vue-scroll-digit
 
 ![vue-scroll-digit](https://blog.xinfolab.com/blog/scroll-digit.gif)
 
